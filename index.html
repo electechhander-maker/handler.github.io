@@ -1,8 +1,69 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Electechhander WiFi模块产品中心</title>
+    <style>
+        body {
+            font-family: "微软雅黑", sans-serif;
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .product-card {
+            border: 1px solid #eee;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 15px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .product-card h3 {
+            color: #2980b9;
+            margin-top: 0;
+        }
+        .download-link {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 8px 16px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        .download-link:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello GitHub Pages!</h1>
-<p>我的网站上线啦</p>
+    <h1>📡 WiFi模块产品列表</h1>
+    <p>欢迎来到我们的物联网通信模组产品中心，以下是当前在售的WiFi模块：</p>
+
+    <!-- 产品1：2.4G UART透传模块 -->
+    <div class="product-card">
+        <h3>型号一：2.4G UART低功耗WiFi模块</h3>
+        <p>✅ 支持串口AT指令透传，无需复杂开发<br>
+        ✅ 低功耗设计，适合电池供电设备<br>
+        ✅ 内置TCP/IP协议栈，快速联网</p>
+        <a href="model1_datasheet.pdf" class="download-link">📄 下载规格书</a>
+    </div>
+
+    <!-- 产品2：双频WiFi+蓝牙模块 -->
+    <div class="product-card">
+        <h3>型号二：2.4G/5G双频WiFi+BLE5.0模块</h3>
+        <p>✅ 双频WiFi+蓝牙双模，兼容更多场景<br>
+        ✅ 高速传输，支持高清数据透传<br>
+        ✅ 支持BLE配网，简化用户操作</p>
+        <a href="model2_datasheet.pdf" class="download-link">📄 下载规格书</a>
+    </div>
+
+    <hr style="margin: 30px 0;">
+    <p>📧 技术支持/商务咨询：your-email@example.com</p>
+    <p>© 2025 Electechhander 保留所有权利</p>
 </body>
 </html>
