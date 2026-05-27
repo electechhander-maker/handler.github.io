@@ -1,0 +1,8 @@
+title: Electechhander WiFi模块产品中心
+description: 全系列WiFi 4/5/6物联网通信模组
+baseurl: "/handler.github.io"
+url: "https://electechhander-maker.github.io"
+theme: minima
+include:
+  - assets
+  - products
