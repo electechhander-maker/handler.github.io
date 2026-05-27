@@ -16,7 +16,8 @@ title: wifi5-model1 产品详情
 - 功耗：<80mA（发射状态）
 
 ## 资料下载
-<a href="{{ site.baseurl }}/assets/datasheets/Fn-Link_6221ASRC-0L_datasheet.pdf" class="download-btn" download>下载规格书PDF</a>
-
+<a href="{{ site.baseurl }}/assets/datasheets/wifi5-model1.pdf" download="6221ASRC-0L_datasheet.pdf">
+  下载规格书PDF
+</a>
 ---
 <a href="{{ site.baseurl }}/">← 返回产品列表</a>
