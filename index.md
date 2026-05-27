@@ -12,7 +12,7 @@ title: 首页 - WiFi模块产品中心
 ## 📶 WiFi 4 模块（2.4GHz）
 <div class="category">
   <div class="product-card">
-    <h3>型号：WIFI4-MODEL 1 </h3>
+    <h3>型号：WiFi4-Model1 </h3>
     <p>✅ 2.4GHz WiFi，串口透传模块<br>
     ✅ 支持AT指令配置，快速接入物联网<br>
     ✅ 低功耗设计，适用于智能家居、工业设备</p>
