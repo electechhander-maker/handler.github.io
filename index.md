@@ -39,7 +39,7 @@ title: 首页 - WiFi模块产品中心
     <p>✅ 2.4G/5G双频WiFi<br>
     ✅ 高速传输，支持高清数据透传<br>
     ✅ 抗干扰能力强，适合复杂环境</p>
-    <a href="{{ site.baseurl }}/products/wifi5-model1.html">查看详情</a> |
+    <a href="{{ site.baseurl }}/products/6221asrc.html">查看详情</a>
     <a href="{{ site.baseurl }}/assets/datasheets/6221ASRC.pdf" class="download-btn" download="Fn-Link_6221ASRC-0L_datasheet.pdf">下载规格书PDF</a>
   </div>
 </div>
