@@ -35,7 +35,7 @@ title: 首页 - WiFi模块产品中心
 ## 📶 WiFi 5 模块（2.4G/5G双频）
 <div class="category">
   <div class="product-card">
-    <h3>型号：WiFi5-Model1（示例）</h3>
+    <h3>型号：6221A-SRC（示例）</h3>
     <p>✅ 2.4G/5G双频WiFi<br>
     ✅ 高速传输，支持高清数据透传<br>
     ✅ 抗干扰能力强，适合复杂环境</p>
