@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wifi5-model1 产品详情
+title: 6221A-SRC 产品详情
 ---
 
 # Fn-Link 6221ASRC-0L WiFi5 模块
