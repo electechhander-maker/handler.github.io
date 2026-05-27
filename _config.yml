@@ -1,7 +1,0 @@
-title: WiFi模块产品中心
-description: Fn-Link 6221 系列WiFi模块技术文档与资料下载
-baseurl: "/handler.github.io"  # 必须填你的仓库名！
-url: "https://electechhander-maker.github.io"
-theme: minima
-include:
-  - assets
